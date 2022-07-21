@@ -7,7 +7,7 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "commitmsg": "commitlint -e $GIT_PARAMS",
+    "commitlint": "commitlint -e $GIT_PARAMS",
     "eslint": "eslint --ext .js,.npjsx,.ts,.tsx --fix .",
     "prettier": "prettier --write .",
     "lint-staged": "lint-staged",
